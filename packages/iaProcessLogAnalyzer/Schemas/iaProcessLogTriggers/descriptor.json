@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9ae5f13e-ad85-460f-a762-d1fed4764157",
+    "Name": "iaProcessLogTriggers",
+    "ModifiedOnUtc": "\/Date(1751839779000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Set last log data for analytics record",
+    "DependsOn": []
+  }
+}
