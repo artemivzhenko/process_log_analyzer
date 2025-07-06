@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5bda1dbd-a377-4db9-a106-46568817a9c8",
+    "Name": "iaProcessLogAnalytics",
+    "ModifiedOnUtc": "\/Date(1751833644000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Process log analytics",
+    "DependsOn": []
+  }
+}

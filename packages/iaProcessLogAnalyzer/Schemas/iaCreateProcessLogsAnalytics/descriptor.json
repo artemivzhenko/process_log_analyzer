@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+    "Name": "iaCreateProcessLogsAnalytics",
+    "ModifiedOnUtc": "\/Date(1751833848000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create process log analytics records",
+    "DependsOn": []
+  }
+}

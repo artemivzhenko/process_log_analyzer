@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bec2e266-1ddc-4f89-81eb-ea2f5abe31c6",
+    "Name": "iaProcessLogAnalyticsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1751719346000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Process log analytics (Page settings)",
+    "DependsOn": []
+  }
+}

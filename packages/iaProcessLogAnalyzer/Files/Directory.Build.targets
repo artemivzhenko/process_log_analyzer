@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/iaProcessLogAnalyzer/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/iaProcessLogAnalyzer/Data/**" />
+		<Compile Remove="$(PkgPath)/iaProcessLogAnalyzer/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/iaProcessLogAnalyzer/Schemas\**" />
+		<Compile Remove="$(PkgPath)/iaProcessLogAnalyzer/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/iaProcessLogAnalyzer/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/iaProcessLogAnalyzer/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/iaProcessLogAnalyzer/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/iaProcessLogAnalyzer/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/iaProcessLogAnalyzer/Resources/**" />
+		<None Remove="$(PkgPath)/iaProcessLogAnalyzer/Assemblies/**" />
+		<None Remove="$(PkgPath)/iaProcessLogAnalyzer/Data/**" />
+		<None Remove="$(PkgPath)/iaProcessLogAnalyzer/SqlScripts/**" />
+		<None Remove="$(PkgPath)/iaProcessLogAnalyzer/Schemas/**" />
+		<None Remove="$(PkgPath)/iaProcessLogAnalyzer/Resources/**" />
+  </ItemGroup>
+</Project>

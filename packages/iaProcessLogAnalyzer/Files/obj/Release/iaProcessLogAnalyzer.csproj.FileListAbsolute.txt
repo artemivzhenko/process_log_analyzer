@@ -1,0 +1,9 @@
+D:\App\169861-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\iaProcessLogAnalyzer\Files\Bin\iaProcessLogAnalyzer.dll
+D:\App\169861-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\iaProcessLogAnalyzer\Files\Bin\iaProcessLogAnalyzer.pdb
+D:\App\169861-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\iaProcessLogAnalyzer\Files\obj\Release\iaProcessLogAnalyzer.csproj.AssemblyReference.cache
+D:\App\169861-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\iaProcessLogAnalyzer\Files\obj\Release\iaProcessLogAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\169861-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\iaProcessLogAnalyzer\Files\obj\Release\iaProcessLogAnalyzer.AssemblyInfoInputs.cache
+D:\App\169861-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\iaProcessLogAnalyzer\Files\obj\Release\iaProcessLogAnalyzer.AssemblyInfo.cs
+D:\App\169861-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\iaProcessLogAnalyzer\Files\obj\Release\iaProcessLogAnalyzer.csproj.CoreCompileInputs.cache
+D:\App\169861-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\iaProcessLogAnalyzer\Files\obj\Release\iaProcessLogAnalyzer.dll
+D:\App\169861-crm-bundle\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\iaProcessLogAnalyzer\Files\obj\Release\iaProcessLogAnalyzer.pdb

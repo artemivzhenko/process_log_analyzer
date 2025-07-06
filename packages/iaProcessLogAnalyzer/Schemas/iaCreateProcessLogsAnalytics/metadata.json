@@ -1,0 +1,270 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+      "A2": "iaCreateProcessLogsAnalytics",
+      "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+      "B1": [],
+      "B2": [],
+      "B3": [
+        {
+          "UId": "6d4826ef-2f27-4022-a9e7-50a84a1ca984",
+          "A2": "Terrasoft.Core",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+          "GF1": "null"
+        },
+        {
+          "UId": "37641c38-90ce-4943-be5f-d0affbe96507",
+          "A2": "Terrasoft.Core.Entities",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+          "GF1": "null"
+        },
+        {
+          "UId": "7281615e-81d6-40a5-9bda-cc6511b6ffad",
+          "A2": "Terrasoft.Common",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+          "GF1": "null"
+        },
+        {
+          "UId": "0190e4dd-3cea-4f3a-aa0e-e3978cdbaf2e",
+          "A2": "System",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+          "GF1": "null"
+        },
+        {
+          "UId": "ff3408b4-ba33-4002-abf5-62b4c7a3620f",
+          "A2": "System.Data",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+          "GF1": "null"
+        },
+        {
+          "UId": "b0ee56e8-dd55-463f-9dd1-78e3bc2083d4",
+          "A2": "System.Collections.Generic",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+          "GF1": "null"
+        },
+        {
+          "UId": "9a33e299-c009-48b3-9c39-59778f98e178",
+          "A2": "global::Common.Logging",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+          "GF1": "null"
+        },
+        {
+          "UId": "8d3436b3-2fa3-493e-a830-01cdd5267107",
+          "A2": "System.Linq",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+          "GF1": "null"
+        },
+        {
+          "UId": "a1a4b483-20e9-41ef-b423-f6701666bf7f",
+          "A2": "Terrasoft.Core.DB",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "ed76c5b8-2e8a-48f2-903e-39977679e9f7",
+          "GF1": "null"
+        }
+      ],
+      "B6": "063a9163-e377-418a-93ec-3dff26c247c9",
+      "B8": "8.3.0.3017",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+        "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "3c31542f-9be3-41d3-970c-38a11378009f",
+          "A2": "LaneSet1",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "063a9163-e377-418a-93ec-3dff26c247c9",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "a9a2229d-3022-46aa-ad5a-d78730e87a19",
+              "A2": "Lane1",
+              "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+              "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+              "A5": "063a9163-e377-418a-93ec-3dff26c247c9",
+              "IL2": "3c31542f-9be3-41d3-970c-38a11378009f",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "3c31542f-9be3-41d3-970c-38a11378009f",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
+          "UId": "dc29286f-01da-4ee7-9735-e2ff09419941",
+          "A2": "StartEvent1",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "063a9163-e377-418a-93ec-3dff26c247c9",
+          "IL2": "a9a2229d-3022-46aa-ad5a-d78730e87a19",
+          "BL3": "205;60",
+          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
+          "BL8": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [],
+          "ED1": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "3e473c34-f815-4d57-888b-43be67ffd3ce",
+          "A2": "TerminateEvent1",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "063a9163-e377-418a-93ec-3dff26c247c9",
+          "IL2": "a9a2229d-3022-46aa-ad5a-d78730e87a19",
+          "BL3": "361;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "526e5db9-d307-414d-b9ce-f0058ff930cf",
+          "A2": "ScriptTask1",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "063a9163-e377-418a-93ec-3dff26c247c9",
+          "IL2": "a9a2229d-3022-46aa-ad5a-d78730e87a19",
+          "BL3": "186;172",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "DateTime thr24 = DateTime.UtcNow.AddDays(-1);\r\nDateTime thr7  = DateTime.UtcNow.AddDays(-7);\r\n\r\nlog.Info(\"[Execute] started\");\r\nvar rows = GetAggregatedRows(UserConnection, thr24, thr7);\r\nFillLastErrorInfo(UserConnection, rows);\r\nFillLastFinishedInfo(UserConnection, rows);\r\nUpsertAnalytics   (UserConnection, rows);\r\nlog.Info($\"[Execute] finished, rows={rows.Count}\");\r\nreturn true;",
+          "CH2": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartTimerEvent",
+          "UId": "a469d61e-7362-44ec-ae3a-387b07b81871",
+          "A2": "StartTimerEvent1",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "063a9163-e377-418a-93ec-3dff26c247c9",
+          "IL2": "a9a2229d-3022-46aa-ad5a-d78730e87a19",
+          "BL3": "58;184",
+          "BL7": "c735ed92-e545-4699-b3c6-f8f57dd8c529",
+          "BL8": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [],
+          "ED1": false,
+          "PS1": "0 0 0 * * ? *",
+          "PS2": 1,
+          "PS3": 2,
+          "PS4": "null",
+          "PS5": "null",
+          "PS6": "GMT Standard Time"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "5f1f95ae-891b-47fe-8594-fe8a76bdf1c1",
+          "A2": "SequenceFlow1",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "063a9163-e377-418a-93ec-3dff26c247c9",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "CI1": "dc29286f-01da-4ee7-9735-e2ff09419941",
+          "CI2": "526e5db9-d307-414d-b9ce-f0058ff930cf",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "221;91",
+          "CI12": "221;172"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "d6300463-8519-430c-930d-f44cc5b9f77d",
+          "A2": "SequenceFlow3",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "063a9163-e377-418a-93ec-3dff26c247c9",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "CI1": "526e5db9-d307-414d-b9ce-f0058ff930cf",
+          "CI2": "3e473c34-f815-4d57-888b-43be67ffd3ce",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "255;200",
+          "CI12": "361;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "3c7df600-1ae4-4b14-9b2e-96cd30691292",
+          "A2": "SequenceFlow2",
+          "A3": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A4": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "A5": "063a9163-e377-418a-93ec-3dff26c247c9",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "1d853f9b-d735-46fd-ac93-df460f1adc2d",
+          "CI1": "a469d61e-7362-44ec-ae3a-387b07b81871",
+          "CI2": "526e5db9-d307-414d-b9ce-f0058ff930cf",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "89;200",
+          "CI12": "186;200"
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK32": "private static readonly Guid RunningStatusId = new Guid(\"ed2ae277-b6e2-df11-971b-001d60e938c6\");\r\nprivate static readonly Guid ErrorStatusId   = new Guid(\"f942c08d-b6e2-df11-971b-001d60e938c6\");\r\n\r\npublic static ILog log = LogManager.GetLogger(\"ProcessLogAnalyzer\");\r\n\r\nprivate sealed class AggRow {\r\n\tpublic Guid ProcessId;        public string ProcessName;\r\n\tpublic int  TotalCalls, ErrorCount, Calls24h, Calls7d, Error24h;\r\n\tpublic int  InProgressCount, InProgressDayCount;\r\n\tpublic double? MaxDur, MinDur, AvgDur;\r\n\tpublic DateTime? LastStartDate, LastEndDate, LastErrorDate;\r\n\tpublic double?   LastDurationMinutes;\r\n\tpublic string    LastErrorDescription;\r\n}\r\n\r\n\r\nprivate static int SafeInt32(IDataReader r, int idx) =>\r\n    r.IsDBNull(idx) ? 0 : r.GetInt32(idx);\r\n\r\n\r\nprivate static List<AggRow> GetAggregatedRows(UserConnection uc, DateTime thr24, DateTime thr7) {\r\n    log.Info(\"[Aggregation] start\");\r\n    string s24 = thr24.ToString(\"yyyy-MM-dd HH:mm:ss\");\r\n    string s7  = thr7 .ToString(\"yyyy-MM-dd HH:mm:ss\");\r\n\r\n    string sql = $@\"\r\n        SELECT\r\n            \"\"SysSchemaId\"\" AS ProcessId,\r\n            MAX(\"\"Name\"\")   AS ProcName,\r\n\r\n            COUNT(*)                                                           AS TotalCalls,\r\n            COALESCE(SUM(CASE WHEN \"\"StatusId\"\" = '{ErrorStatusId}' THEN 1 END),0)             AS ErrorCount,\r\n\r\n            COALESCE(SUM(CASE WHEN \"\"StartDate\"\" >= '{s24}' THEN 1 END),0)                      AS Calls24h,\r\n            COALESCE(SUM(CASE WHEN \"\"StartDate\"\" >= '{s7}'  THEN 1 END),0)                      AS Calls7d,\r\n            COALESCE(SUM(CASE WHEN \"\"StatusId\"\" = '{ErrorStatusId}' AND \"\"StartDate\"\" >= '{s24}' THEN 1 END),0) AS Error24h,\r\n\r\n            COALESCE(SUM(CASE WHEN \"\"StatusId\"\" = '{RunningStatusId}' THEN 1 END),0)                               AS InProg,\r\n            COALESCE(SUM(CASE WHEN \"\"StatusId\"\" = '{RunningStatusId}' AND \"\"StartDate\"\" <= '{s24}' THEN 1 END),0)   AS InProgDay,\r\n\r\n            MAX(CASE WHEN \"\"DurationInMinutes\"\" >= 0 THEN \"\"DurationInMinutes\"\" END) AS MaxDur,\r\n            MIN(CASE WHEN \"\"DurationInMinutes\"\" >= 0 THEN \"\"DurationInMinutes\"\" END) AS MinDur,\r\n            AVG(CASE WHEN \"\"DurationInMinutes\"\" >= 0 THEN \"\"DurationInMinutes\"\" END) AS AvgDur,\r\n\r\n            MAX(\"\"StartDate\"\") AS LastStart\r\n        FROM \"\"SysProcessLog\"\"\r\n        WHERE \"\"SysSchemaId\"\" IS NOT NULL\r\n        AND \"\"DurationInMinutes\"\" >= 0\r\n        AND \"\"StartDate\"\" IS NOT NULL\r\n        AND \"\"StatusId\"\" IS NOT NULL\r\n        GROUP BY \"\"SysSchemaId\"\"\";\r\n\r\n    var list = new List<AggRow>();\r\n    using (var db = uc.EnsureDBConnection()) {\r\n        var q = new CustomQuery(uc, sql);\r\n        using (IDataReader r = q.ExecuteReader(db)) {\r\n            while (r.Read()) {\r\n                if (r.IsDBNull(0)) continue;\r\n\r\n                list.Add(new AggRow {\r\n                    ProcessId          = r.GetGuid(0),\r\n                    ProcessName        = r.IsDBNull(1) ? null : r.GetString(1),\r\n\r\n                    TotalCalls         = r.GetInt32(2),\r\n                    ErrorCount         = SafeInt32(r,3),\r\n\r\n                    Calls24h           = SafeInt32(r,4),\r\n                    Calls7d            = SafeInt32(r,5),\r\n                    Error24h           = SafeInt32(r,6),\r\n\r\n                    InProgressCount    = SafeInt32(r,7),\r\n                    InProgressDayCount = SafeInt32(r,8),\r\n\r\n                    MaxDur             = r.IsDBNull(9)  ? (double?)null : Convert.ToDouble(r.GetValue(9)),\r\n                    MinDur             = r.IsDBNull(10) ? (double?)null : Convert.ToDouble(r.GetValue(10)),\r\n                    AvgDur             = r.IsDBNull(11) ? (double?)null : Convert.ToDouble(r.GetValue(11)),\r\n                    LastStartDate      = r.IsDBNull(12) ? (DateTime?)null : r.GetDateTime(12)\r\n                });\r\n            }\r\n        }\r\n    }\r\n    log.Info($\"[Aggregation] done, rows={list.Count}\");\r\n    return list;\r\n}\r\n\r\nprivate static void FillLastErrorInfo(UserConnection uc, List<AggRow> rows) {\r\n\tlog.Info(\"[LastError] start\");\r\n\tforeach (var row in rows) {\r\n\t\tstring sql = $@\"\r\n\t\t\tSELECT \"\"ErrorDescription\"\", \"\"StartDate\"\"\r\n\t\t\tFROM \"\"SysProcessLog\"\"\r\n\t\t\tWHERE \"\"SysSchemaId\"\" = '{row.ProcessId}'\r\n\t\t\t  AND \"\"StatusId\"\"    = '{ErrorStatusId}'\r\n\t\t\t  AND \"\"ErrorDescription\"\" IS NOT NULL\r\n\t\t\tORDER BY \"\"StartDate\"\" DESC LIMIT 1\";\r\n\t\tusing (var db = uc.EnsureDBConnection()) {\r\n\t\t\tusing (var rd = new CustomQuery(uc, sql).ExecuteReader(db)) {\r\n\t\t\t\tif (rd.Read()) {\r\n\t\t\t\t\trow.LastErrorDescription = rd.IsDBNull(0)? null : rd.GetString(0);\r\n\t\t\t\t\trow.LastErrorDate        = rd.IsDBNull(1)? (DateTime?)null : rd.GetDateTime(1);\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n\tlog.Info(\"[LastError] done\");\r\n}\r\n\r\nprivate static void FillLastFinishedInfo(UserConnection uc, List<AggRow> rows) {\r\n\tlog.Info(\"[LastFinished] start\");\r\n\tforeach (var row in rows) {\r\n\t\tstring sql = $@\"\r\n\t\t\tSELECT \"\"DurationInMinutes\"\", \"\"StartDate\"\"\r\n\t\t\tFROM \"\"SysProcessLog\"\"\r\n\t\t\tWHERE \"\"SysSchemaId\"\" = '{row.ProcessId}'\r\n\t\t\t  AND \"\"StatusId\"\"    <> '{RunningStatusId}'\r\n\t\t\t  AND \"\"DurationInMinutes\"\" >= 0\r\n\t\t\tORDER BY \"\"StartDate\"\" DESC LIMIT 1\";\r\n\t\tusing (var db = uc.EnsureDBConnection()) {\r\n\t\t\tusing (var rd = new CustomQuery(uc, sql).ExecuteReader(db)) {\r\n\t\t\t\tif (rd.Read() && !rd.IsDBNull(0)) {\r\n\t\t\t\t\tdouble dur = Convert.ToDouble(rd.GetValue(0));\r\n\t\t\t\t\tif (!double.IsNaN(dur) && !double.IsInfinity(dur)) {\r\n\t\t\t\t\t\trow.LastDurationMinutes = dur;\r\n\t\t\t\t\t\tDateTime start = rd.GetDateTime(1);\r\n\t\t\t\t\t\trow.LastEndDate = start.AddMinutes(dur);\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n\tlog.Info(\"[LastFinished] done\");\r\n}\r\n\r\nprivate static string T(object v) => v == null ? \"null\" : v.GetType().Name;\r\n\r\n\r\nprivate static void UpsertAnalytics(UserConnection uc, List<AggRow> rows) {\r\n    log.Info(\"[Upsert] start\");\r\n    var schema = uc.EntitySchemaManager.GetInstanceByName(\"iaProcessLogAnalytics\");\r\n\r\n    var durCol  = schema.Columns.FindByName(\"iaLastDurationMinutes\");\r\n    bool durIsDate = durCol != null && durCol.DataValueType is DateTimeDataValueType;\r\n    var processEntity = uc.EntitySchemaManager.GetInstanceByName(\"SysSchema\").CreateEntity(uc);\r\n\r\n    foreach (var r in rows) {\r\n        var e = schema.CreateEntity(uc);\r\n        bool exists = e.FetchFromDB(\"iaProcess\", r.ProcessId);\r\n        if (!exists) {\r\n            if(processEntity.FetchFromDB(r.ProcessId)) {\r\n        \t\tstring name = processEntity.GetTypedColumnValue<string>(\"Name\");\r\n            \te.SetDefColumnValues();\r\n        \t\te.SetColumnValue(\"iaProcessId\", r.ProcessId);\r\n        \t\te.SetColumnValue(\"iaName\", name);\r\n        \t}\r\n        \telse {\r\n        \t\tcontinue;\r\n        \t}\r\n        }\r\n\r\n        Set(e, \"iaNumberOfCalls\",             r.TotalCalls);\r\n        Set(e, \"iaInstancesWithErrorResult\",  r.ErrorCount);\r\n        Set(e, \"iaInstancesInProgress\",       r.InProgressCount);\r\n        Set(e, \"iaInstancesInProgressMoreThanDay\", r.InProgressDayCount);\r\n        if (r.MaxDur.HasValue) Set(e, \"iaMaxExecutionTime\", r.MaxDur);\r\n        if (r.MinDur.HasValue) Set(e, \"iaMinExecutionTime\", r.MinDur);\r\n        if (r.AvgDur.HasValue) Set(e, \"iaAVG\",              r.AvgDur);\r\n\r\n        double? errAll = r.TotalCalls == 0 ? (double?)null\r\n            : Math.Round(r.ErrorCount * 100.0 / r.TotalCalls, 2);\r\n        Set(e, \"iaErrorExecutionsPercent\", errAll);\r\n\r\n        Set(e, \"iaCalls24h\",           r.Calls24h);\r\n        Set(e, \"iaCalls7d\",            r.Calls7d);\r\n        Set(e, \"iaErrorExecutions24h\", r.Error24h);\r\n\r\n        double? err24 = r.Calls24h == 0 ? (double?)null\r\n            : Math.Round(r.Error24h * 100.0 / r.Calls24h, 2);\r\n        Set(e, \"iaErrorPercent24h\", err24);\r\n\r\n        if (r.LastStartDate.HasValue) Set(e, \"iaLastStartDate\", r.LastStartDate);\r\n        if (r.LastEndDate.HasValue)   Set(e, \"iaLastEndDate\",   r.LastEndDate);\r\n        if (r.LastErrorDate.HasValue) Set(e, \"iaLastErrorDate\", r.LastErrorDate);\r\n        if (!string.IsNullOrEmpty(r.LastErrorDescription))\r\n            Set(e, \"iaLastErrorDescription\", r.LastErrorDescription);\r\n\r\n        if (r.LastDurationMinutes.HasValue) {\r\n            if (durIsDate) {\r\n                log.Warn($\"[Skip] iaLastDurationMinutes колонка=DateTime, значение {r.LastDurationMinutes}\");\r\n            } else {\r\n                Set(e, \"iaLastDurationMinutes\", r.LastDurationMinutes);\r\n            }\r\n        }\r\n\r\n        try {\r\n            e.Save();\r\n        } catch (Exception ex) {\r\n            log.Error($\"[SaveError] proc={r.ProcessId} -> {ex.Message}\");\r\n            throw;\r\n        }\r\n    }\r\n    log.Info(\"[Upsert] done\");\r\n\r\n    void Set(Entity ent, string col, object val) {\r\n        log.Debug($\"[Set] {col} = '{val}' ({T(val)})\");\r\n        ent.SetColumnValue(col, val);\r\n    }\r\n}",
+      "BK34": "null",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}

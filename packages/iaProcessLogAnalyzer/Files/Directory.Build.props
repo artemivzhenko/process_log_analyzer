@@ -1,0 +1,5 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/iaProcessLogAnalyzer/Schemas/iaProcessLogAnalytics/iaProcessLogAnalytics.cs" Condition="Exists('$(PkgPath)/iaProcessLogAnalyzer/Schemas/iaProcessLogAnalytics/iaProcessLogAnalytics.cs')" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Process log analytics form page" />
+			<Item Name="LocalizableStrings.addRecord_e8o3jlo_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ng82xad_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.CallsByUser_ChartWidget_label.Value" Value="Process log (actual)" />
+			<Item Name="LocalizableStrings.CallsByUser_ChartWidget_series_0.Value" Value="Process log (actual)" />
+			<Item Name="LocalizableStrings.CallsByUser_ChartWidget_title.Value" Value="Calls by user" />
+			<Item Name="LocalizableStrings.ChartWidget_19zjp2s_series_0.Value" Value="Process log (actual)" />
+			<Item Name="LocalizableStrings.ChartWidget_19zjp2s_title.Value" Value="Error calls count" />
+			<Item Name="LocalizableStrings.ChartWidget_19zjp2s_xAxis.Value" Value="Date" />
+			<Item Name="LocalizableStrings.ChartWidget_19zjp2s_yAxis.Value" Value="Count" />
+			<Item Name="LocalizableStrings.ChartWidget_pxcm61n_series_0.Value" Value="Process log" />
+			<Item Name="LocalizableStrings.ChartWidget_pxcm61n_title.Value" Value="Grouping by status" />
+			<Item Name="LocalizableStrings.ChartWidget_vvt1mlc_series_0.Value" Value="Process log (actual)" />
+			<Item Name="LocalizableStrings.ChartWidget_vvt1mlc_title.Value" Value="Successful calls" />
+			<Item Name="LocalizableStrings.ChartWidget_vvt1mlc_xAxis.Value" Value="Time" />
+			<Item Name="LocalizableStrings.ChartWidget_vvt1mlc_yAxis.Value" Value="Count" />
+			<Item Name="LocalizableStrings.ChartWidget_w8sn37r_series_0.Value" Value="Process log (actual)" />
+			<Item Name="LocalizableStrings.ChartWidget_w8sn37r_title.Value" Value="Calls by hour" />
+			<Item Name="LocalizableStrings.ChartWidget_w8sn37r_xAxis.Value" Value="Hour" />
+			<Item Name="LocalizableStrings.ChartWidget_w8sn37r_yAxis.Value" Value="Count" />
+			<Item Name="LocalizableStrings.ExpansionPanel_1k03du3_title.Value" Value="Process log" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_0kmk4q4_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_18jogi9_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_e0rbc2q_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ga1wp6r_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_zzf2ea6_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_mt67d9m_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.IndicatorWidget_qmqfjr9_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_qmqfjr9_title.Value" Value="Running" />
+			<Item Name="LocalizableStrings.LastCallsAVGDuration_ChartWidget_label.Value" Value="Process log (actual)" />
+			<Item Name="LocalizableStrings.LastCallsAVGDuration_ChartWidget_series_0.Value" Value="Process log (actual)" />
+			<Item Name="LocalizableStrings.LastCallsAVGDuration_ChartWidget_title.Value" Value="Last calls avg duration (miliseconds)" />
+			<Item Name="LocalizableStrings.LastCallsAVGDuration_ChartWidget_xAxis.Value" Value="Date" />
+			<Item Name="LocalizableStrings.LastCallsAVGDuration_ChartWidget_yAxis.Value" Value="Duration in minutes" />
+			<Item Name="LocalizableStrings.TabContainer_44eh0pw_caption.Value" Value="Dashboards" />
+		</Items>
+	</Group>
+</Resources>

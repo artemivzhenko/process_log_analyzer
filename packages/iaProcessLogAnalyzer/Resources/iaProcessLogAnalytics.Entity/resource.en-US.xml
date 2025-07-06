@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Process log analytics" />
+			<Item Name="Columns.iaAVG.Caption" Value="AVG (in minutes)" />
+			<Item Name="Columns.iaCalls24h.Caption" Value="Calls in last 24h" />
+			<Item Name="Columns.iaCalls7d.Caption" Value="Calls in last 7d" />
+			<Item Name="Columns.iaErrorExecutions24h.Caption" Value="Error executions 24h" />
+			<Item Name="Columns.iaErrorExecutionsPercent.Caption" Value="Error executions percent" />
+			<Item Name="Columns.iaErrorPercent24h.Caption" Value="Error percent 24h" />
+			<Item Name="Columns.iaInstancesInProgress.Caption" Value="Instances in progress" />
+			<Item Name="Columns.iaInstancesInProgressMoreThanDay.Caption" Value="Instances in process for more than a day" />
+			<Item Name="Columns.iaInstancesWithErrorResult.Caption" Value="Instances with error result" />
+			<Item Name="Columns.iaLastDurationMinutes.Caption" Value="Last duration in minutes" />
+			<Item Name="Columns.iaLastEndDate.Caption" Value="Last end date" />
+			<Item Name="Columns.iaLastErrorDate.Caption" Value="Last error date" />
+			<Item Name="Columns.iaLastErrorDescription.Caption" Value="Last error description" />
+			<Item Name="Columns.iaLastStartDate.Caption" Value="Last start date" />
+			<Item Name="Columns.iaMaxExecutionTime.Caption" Value="Max execution time" />
+			<Item Name="Columns.iaMinExecutionTime.Caption" Value="Min execution time" />
+			<Item Name="Columns.iaName.Caption" Value="Name" />
+			<Item Name="Columns.iaNumberOfCalls.Caption" Value="Numbers of calls" />
+			<Item Name="Columns.iaOwner.Caption" Value="Owner" />
+			<Item Name="Columns.iaProcess.Caption" Value="Process" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>
