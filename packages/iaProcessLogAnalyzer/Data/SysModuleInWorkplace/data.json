@@ -4,6 +4,50 @@
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "52fc5b80-d154-4e5a-8993-612f3c8d2c05"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "38af1179-d28d-47e6-8c95-a0724308b980",
+          "DisplayValue": "Process admin"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "b42b4eae-e3ee-41da-a546-fac1f2ba3a32",
+          "DisplayValue": "Process log"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 114
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "87b6c74b-e1a4-4aed-b3a8-f92f348ac62e"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "38af1179-d28d-47e6-8c95-a0724308b980",
+          "DisplayValue": "Process admin"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "5071277c-27f2-4d5f-83da-0ed00d04ffee",
+          "DisplayValue": "Process library"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 113
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "e3c9b755-c50a-4ed1-b31f-2c8bc4e8f82b"
         },
         {
@@ -19,6 +63,28 @@
         {
           "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
           "Value": 112
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f4413f7c-6ecd-4167-9200-a79645412f56"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "38af1179-d28d-47e6-8c95-a0724308b980",
+          "DisplayValue": "Process admin"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "64db30ac-7285-475e-ac5a-d2a84f160757",
+          "DisplayValue": "Process log analytics"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 115
         }
       ]
     }

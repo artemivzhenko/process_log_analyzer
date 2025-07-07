@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{5a3869f0-179e-4026-90e9-73f84e256d88}") = "iaProcessLogAnalyzer", "..\packages\iaProcessLogAnalyzer\Files\iaProcessLogAnalyzer.csproj", "{adc6cd5d-5244-40e0-bf1e-7dc27f24dbe0}"
+Project("{c5399e6b-f3d3-48cc-b893-0722a65288ca}") = "iaProcessLogAnalyzer", "..\packages\iaProcessLogAnalyzer\Files\iaProcessLogAnalyzer.csproj", "{3d40b78f-9a8c-47cf-a592-d1194ee99e02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -7,9 +7,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-			{adc6cd5d-5244-40e0-bf1e-7dc27f24dbe0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-			{adc6cd5d-5244-40e0-bf1e-7dc27f24dbe0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-			{adc6cd5d-5244-40e0-bf1e-7dc27f24dbe0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-			{adc6cd5d-5244-40e0-bf1e-7dc27f24dbe0}.Release|Any CPU.Build.0 = Release|Any CPU
+			{3d40b78f-9a8c-47cf-a592-d1194ee99e02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{3d40b78f-9a8c-47cf-a592-d1194ee99e02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{3d40b78f-9a8c-47cf-a592-d1194ee99e02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{3d40b78f-9a8c-47cf-a592-d1194ee99e02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
